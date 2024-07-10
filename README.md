@@ -14,5 +14,6 @@ last line changed locally
 5. To
 6. Write
 I **hate** bold. See *much* better
+![That looks Yummy](moqueca.png)
 
 
